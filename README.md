@@ -1,11 +1,21 @@
-<!-- Banner chamativo -->
+<h1 align="center" style="color:#1E5631; font-size: 32px;">
+  🚀 <strong>Desenvolvedor Front-End com Propósito e Inovação</strong>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Guxtaa+%7C+Desenvolvedor+Full-Stack+com+foco+em+Front-End+com+Impacto+Social;Especialista+em+Sa%C3%BAde+Digital+e+Inovador+por+Natureza;React%2C+Next.js%2C+Tailwind+%2B+Projetos+reais+em+produção" alt="Typing SVG" />
+  <strong style="color:#1E5631;">React</strong> • 
+  <strong style="color:#1E5631;">Next.js</strong> • 
+  <strong style="color:#1E5631;">Tailwind</strong> • 
+  <strong style="color:#1E5631;">Firebase</strong> • 
+  <strong style="color:#1E5631;">C#</strong> • 
+  <strong style="color:#1E5631;">Saúde Digital</strong>
 </p>
+
+<hr/>
 
 ---
 
-## 👋 Olá, sou o Guxtaa!  
+## 👋 Olá Mundo! Sou o Gustavo  
 
 Desenvolvedor **Full Stack** com **foco em Front-End**, especializado na criação de experiências digitais modernas, acessíveis e com impacto real na vida das pessoas.
 
@@ -21,7 +31,7 @@ Desenvolvedor **Full Stack** com **foco em Front-End**, especializado na criaç�
 Lidero o desenvolvimento de um aplicativo com IA (**Carol**) que gerencia toda a jornada do paciente — marketing, vendas, atendimento presencial e controle de fila.
 
 ✅ **Sistema de acolhimento em saúde mental da AgSUS**  
-Desenvolvido com **React**, **Java**, **MySQL** — com gestão de prontuários, atribuição de pacientes e histórico clínico.
+Desenvolvido com **React**, **php**, **MySQL** — com gestão de prontuários, atribuição de pacientes e histórico clínico.
 
 ✅ **Portal do Núcleo de Saúde Digital (NSD)**  
 Site institucional responsivo com chatbot, blog, carrossel e formulário dinâmico — com ênfase em UI/UX, feito em **HTML/CSS/JS puro e depois com Tailwind**.
