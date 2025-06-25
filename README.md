@@ -40,9 +40,8 @@ Criado com **TypeScript**, **Firebase**, login com múltiplos perfis (gerente, g
 
 ---
 
-### 💡 Stack e Ferramentas que amo usar
+### 💡 Stack e Ferramentas que domino
 
-<h3>💡 Stack e Ferramentas que amo usar</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
