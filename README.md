@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#1E5631; font-size: 32px;">
-  🚀 <strong>Desenvolvedor Front-End com Propósito e Inovação</strong>
+<h1 align="center" style="color:#0F5C2D; font-size: 32px;">
+  🚀 <strong>Desenvolvedor Full-Stack com foco em Front-End Propósito e Inovação com Impacto</strong>
 </h1>
 
 <p align="center">
@@ -11,7 +11,6 @@
   <strong style="color:#1E5631;">Saúde Digital</strong>
 </p>
 
-<hr/>
 
 ---
 
@@ -48,7 +47,6 @@ Criado com **TypeScript**, **Firebase**, login com múltiplos perfis (gerente, g
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" title="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
@@ -56,7 +54,6 @@ Criado com **TypeScript**, **Firebase**, login com múltiplos perfis (gerente, g
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
 </p>
